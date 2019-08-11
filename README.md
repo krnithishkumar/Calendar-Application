@@ -1,5 +1,5 @@
 # Calendar-Application
-  The calendar application that calendar for any provided year.
+  The calendar application that displays calendar for any provided year.
 # Abstract
   This calendar application first gets the user name and password to login into a particular account and  gets the year as input and displays the calendar of that year and can also get specifically as a year and month and display calendar of that specific month .This application is also capable of getting whom the user want to send notification and gets the message and sends it to that particular user .It also gets details like day , month , year and subject to set the remainder for a group of users .User is able to logout from their account and switch to another account by the option given and can see description of the application .This application is mainly designed to improve ease of access to users who use calendar application often.
 # Language Used
